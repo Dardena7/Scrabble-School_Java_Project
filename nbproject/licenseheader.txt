@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}ANC3 - Projet d'analyse et de conception - EPFC 2015-2016
+${licensePrefix}Groupe 3 - Paulo Pereira de Macedo, Alexis Dardenne
+<#if licenseLast??>
+${licenseLast}
+</#if>
